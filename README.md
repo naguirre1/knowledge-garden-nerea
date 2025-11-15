@@ -5,7 +5,7 @@ tags:
 type: note
 description: A basic note structure with no additional properties other than status and tags and links
 ---
-
+\
 %%
 Status:: #triage 
 %%

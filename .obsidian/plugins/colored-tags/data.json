@@ -37,7 +37,12 @@
     "calbaza": 23,
     "otoño": 24,
     "calabaza": 25,
-    "Ingredientes": 26
+    "Ingredientes": 26,
+    "ZA": 27,
+    "zanahoria": 28,
+    "postre": 29,
+    "tarta": 30,
+    "dulce": 31
   },
   "_version": 3
 }

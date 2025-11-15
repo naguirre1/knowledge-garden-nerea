@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Tarta de zanahoria"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Tarta de zanahoria"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links from Tarta de zanahoria"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Tarta de zanahoria"
             }
           },
           {
@@ -221,11 +221,13 @@
   },
   "active": "26ba22ade9ccc3ae",
   "lastOpenFiles": [
+    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+    "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
+    "README.md",
     "Untitled 1.md",
     "Untitled.md",
     "⏣ Templates/🍳 Recipe.md",
     "🌳 Forest/🕷️ Recipes/🥣 Pisto.md",
-    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
     "⏣ Templates/Untitled.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-conversations/Create_a_glossary_of_important_terms,_concepts,_and_phrases_from@20251115_164223.md",
