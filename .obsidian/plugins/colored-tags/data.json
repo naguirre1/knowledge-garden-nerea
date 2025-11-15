@@ -1,0 +1,43 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-bright",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "readme": 1,
+    "todo-list": 2,
+    "triage": 3,
+    "kanban-boad": 4,
+    "reading": 5,
+    "dashboard": 6,
+    "term": 7,
+    "research": 8,
+    "basic_note": 9,
+    "daily-note": 10,
+    "in-progress": 11,
+    "tech": 12,
+    "done": 13,
+    "digital_gardening": 14,
+    "obsidian_basics": 15,
+    "sources": 16,
+    "sources/article": 1,
+    "sources/repository": 2,
+    "recipe": 17,
+    "primerPlato": 18,
+    "cuchara": 19,
+    "verduras": 20,
+    "calabacín": 21,
+    "copilot-conversation": 22,
+    "calbaza": 23,
+    "otoño": 24,
+    "calabaza": 25,
+    "Ingredientes": 26
+  },
+  "_version": 3
+}
