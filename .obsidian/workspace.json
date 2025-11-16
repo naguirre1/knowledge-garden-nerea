@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
+                "file": "🌳 Forest/🕷️ Recipes/🧈 Buttercream.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tarta de zanahoria"
+              "title": "🧈 Buttercream"
             }
           },
           {
             "id": "2d5dffac127f512b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4fe1b3cf6c67a3c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -119,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
+                "file": "🌳 Forest/🕷️ Recipes/🧈 Buttercream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tarta de zanahoria"
+              "title": "Backlinks for 🧈 Buttercream"
             }
           },
           {
@@ -138,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
+                "file": "🌳 Forest/🕷️ Recipes/🧈 Buttercream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tarta de zanahoria"
+              "title": "Outgoing links from 🧈 Buttercream"
             }
           },
           {
@@ -167,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
+                "file": "🌳 Forest/🕷️ Recipes/🧈 Buttercream.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tarta de zanahoria"
+              "title": "Outline of 🧈 Buttercream"
             }
           },
           {
@@ -221,9 +231,11 @@
   },
   "active": "26ba22ade9ccc3ae",
   "lastOpenFiles": [
-    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
-    "🌳 Forest/🕷️ Recipes/Tarta de zanahoria.md",
+    "🌳 Forest/🕷️ Recipes/brunoise.md",
+    "🌳 Forest/🕷️ Recipes/🧈 Buttercream.md",
     "README.md",
+    "🌳 Forest/🕷️ Recipes/🥕 Tarta de zanahoria (bizcocho).md",
+    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
     "Untitled 1.md",
     "Untitled.md",
     "⏣ Templates/🍳 Recipe.md",
@@ -233,7 +245,6 @@
     "copilot/copilot-conversations/Create_a_glossary_of_important_terms,_concepts,_and_phrases_from@20251115_164223.md",
     "copilot/copilot-conversations",
     "🍃 Glossary.md",
-    "brunoise.md",
     "*brunoise*.md",
     "🖇️ Attachments/Pasted image 20251115164012.png",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",

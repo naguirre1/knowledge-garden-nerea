@@ -42,7 +42,13 @@
     "zanahoria": 28,
     "postre": 29,
     "tarta": 30,
-    "dulce": 31
+    "dulce": 31,
+    "relleno": 32,
+    "postre/relleno": 1,
+    "término": 33,
+    "término/corte": 1,
+    "glosario": 34,
+    "mantequilla": 35
   },
   "_version": 3
 }

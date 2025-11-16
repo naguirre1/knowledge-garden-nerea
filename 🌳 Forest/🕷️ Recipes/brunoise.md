@@ -5,7 +5,7 @@ tags:
   - term
 links: "[[🍃 Glossary]]"
 ---
-#term 
+#term #término/corte #glosario 
 
 ---
 
