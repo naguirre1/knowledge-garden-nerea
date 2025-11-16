@@ -23,7 +23,7 @@ links:
 
 ---
  
-# Elaboración.
+# Elaboración
 1. Batir los huevos y el azúcar
 2. Añadir el aceite y batir un poco más.
 3. Pelar, lavar y rallar las zanahorias. Contienen mucha cantidad de agua, así que es bueno escurrirlas un poco con las manos. No demasiado, para que no quede seco el bizcocho. Las añadimos a la mezcla.
