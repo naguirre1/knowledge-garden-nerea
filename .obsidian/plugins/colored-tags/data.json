@@ -50,7 +50,10 @@
     "glosario": 34,
     "mantequilla": 35,
     "pescado": 36,
-    "pescado/antxoas": 1
+    "pescado/antxoas": 1,
+    "aperitivo": 37,
+    "pescado/calamar": 2,
+    "salsa": 38
   },
   "_version": 3
 }

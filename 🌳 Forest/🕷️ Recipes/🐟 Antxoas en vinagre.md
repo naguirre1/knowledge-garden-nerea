@@ -4,9 +4,10 @@ description: A basic recipe
 tags:
   - recipe
   - pescado/antxoas
+  - aperitivo
 links:
 ---
-#recipe #pescado/antxoas 
+#recipe #pescado/antxoas #aperitivo 
 
 ---
 
