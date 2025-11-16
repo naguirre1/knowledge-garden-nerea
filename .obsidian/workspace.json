@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+                "file": "🌳 Forest/🕷️ Recipes/🚂 Olla ferroviaria.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🎃 Crema de calabaza"
-            }
-          },
-          {
-            "id": "2d5dffac127f512b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌳 Forest/🕷️ Recipes/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "🚂 Olla ferroviaria"
             }
           },
           {
@@ -74,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ingredientes",
+                "query": "order",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/Untitled 2.md",
+                "file": "🌳 Forest/🕷️ Recipes/🚂 Olla ferroviaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks for 🚂 Olla ferroviaria"
             }
           },
           {
@@ -166,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/Untitled 2.md",
+                "file": "🌳 Forest/🕷️ Recipes/🚂 Olla ferroviaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 2"
+              "title": "Outgoing links from 🚂 Olla ferroviaria"
             }
           },
           {
@@ -195,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/Untitled 2.md",
+                "file": "🌳 Forest/🕷️ Recipes/🚂 Olla ferroviaria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of 🚂 Olla ferroviaria"
             }
           },
           {
@@ -247,22 +233,25 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2d5dffac127f512b",
+  "active": "26ba22ade9ccc3ae",
   "lastOpenFiles": [
-    "🌳 Forest/🕷️ Recipes/🧂 Vinagreta.md",
+    "🌳 Forest/🕷️ Recipes/Hummus.md",
+    "🌳 Forest/🕷️ Recipes/🚂 Olla ferroviaria.md",
+    "🌳 Forest/🕷️ Recipes/Tahini.md",
+    "🌳 Forest/🕷️ Recipes/🧈 Buttercream.md",
+    "🌳 Forest/🕷️ Recipes/Untitled 3.md",
     "🌳 Forest/🕷️ Recipes/Untitled 2.md",
     "🌳 Forest/🕷️ Recipes/Untitled 1.md",
-    "🌳 Forest/🕷️ Recipes/🥛 Lactonesa.md",
-    "🌳 Forest/🕷️ Recipes/Untitled.md",
-    "🌳 Forest/🕷️ Recipes/🦑 Rabas.md",
+    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+    "🌳 Forest/🕷️ Recipes/🥕 Tarta de zanahoria (bizcocho).md",
+    "🌳 Forest/🕷️ Recipes/🥣 Pisto.md",
     "🌳 Forest/🕷️ Recipes/🐟 Antxoas en vinagre.md",
+    "🌳 Forest/🕷️ Recipes/🧂 Vinagreta.md",
+    "🌳 Forest/🕷️ Recipes/🥛 Lactonesa.md",
+    "🌳 Forest/🕷️ Recipes/🦑 Rabas.md",
     "🌳 Forest/🕷️ Recipes/brunoise.md",
     "Untitled 2.md",
-    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
     "⏣ Templates/🍳 Recipe.md",
-    "🌳 Forest/🕷️ Recipes/🥣 Pisto.md",
-    "🌳 Forest/🕷️ Recipes/🥕 Tarta de zanahoria (bizcocho).md",
-    "🌳 Forest/🕷️ Recipes/🧈 Buttercream.md",
     "README.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -274,9 +263,6 @@
     "*brunoise*.md",
     "🖇️ Attachments/Pasted image 20251115164012.png",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]

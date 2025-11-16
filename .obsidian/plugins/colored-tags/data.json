@@ -53,7 +53,16 @@
     "pescado/antxoas": 1,
     "aperitivo": 37,
     "pescado/calamar": 2,
-    "salsa": 38
+    "salsa": 38,
+    "pr": 39,
+    "menu": 40,
+    "menu/primero": 1,
+    "alubias": 41,
+    "orden": 42,
+    "orden/primero": 1,
+    "ordenpostre": 43,
+    "orden/postre": 2,
+    "complemento": 44
   },
   "_version": 3
 }
